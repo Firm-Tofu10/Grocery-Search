@@ -1,2 +1,2 @@
-# Group-Weather-App
+# Grocery Search
 Weather app created with a group.
